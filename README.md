@@ -1,5 +1,5 @@
 # Huffman Coding
-# Simple Huffman Encoding / Decoding Implementation
+## A Simple Huffman Encoding / Decoding Implementation for Text files
 
 program is invoked as such:
 - java HuffmanCode [c|d] [input] [output] [code]
